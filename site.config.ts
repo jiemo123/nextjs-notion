@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜狗陈',
-  domain: 'blog',
-  author: 'caidog.chen',
+  name: 'dishdog.chen',
+  domain: 'dishdog.chen',
+  author: 'dishdog.chen',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
